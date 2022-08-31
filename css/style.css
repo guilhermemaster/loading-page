@@ -24,5 +24,8 @@ body {
 
 .loading-text {
     font-size: 50px;
-    color: #a3b1c3;
+    color: #468eeb;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    font-weight: bold;
 }
